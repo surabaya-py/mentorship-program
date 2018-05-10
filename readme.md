@@ -29,6 +29,7 @@ Untuk lebih jelasnya, bisa dilihat alur kegiatan sebagai berikut:
 
 * Peserta menggunakan laptop milik pribadi dan membawanya pada setiap kegiatan.
 * Peserta menyatakan mampu untuk hadir dan aktif pada setiap kegiatan yang diadakan hingga akhir program.
+* Sangat disarankan untuk mendaftar sebagai kelompok dua orang [(kenapa?)](#peserta), namun diperbolehkan untuk mendaftar sendiri.
 * Peserta menyatakan bersedia jika nanti diminta untuk menjadi mentor atau pembicara.
 * Peserta membayar commitment fee yang akan dikembalikan 75% setelah mengikuti seluruh rangkaian acara [(kenapa?)](#commitment-fee). Besaran commitment fee berbeda tergantung topik yang dibahas namun dalam kisaran Rp100.000,-.
 * Peserta tidak akan membuat dan atau terlibat konflik antar peserta, mentor atau panitia pada sebelum, saat dan setelah kegiatan.
@@ -38,6 +39,25 @@ Kirimkan pesan ke grup [telegram](http://t.me/surabayadotpy) tentang apa yang ma
 
 
 ## FAQ
+### Peserta
+> Saya tidak bisa pemrograman python, apa yang harus saya lakukan?
+
+Mulai dari install, pelajari dasar-dasarnya dan mulai mencoba hal-hal yang kamu suka. Python dapat digunakan untuk website, data, image processing dan sebagainya. Agar dapat memanfaatkan semaksimal mungkin program ini, pengetahuan dasar sangat dibutuhkan agar pengaplikasian ilmu bisa lebih cepat.
+
+> Mengapa direkomendasikan mendaftar sebagai kelompok dua orang?
+
+Manusia memiliki niat yang naik turun. Dengan punya teman seperjuangan dari awal maka semangat untuk belajar akan dapat saling berbagi dan menyemangati. Project yang akan dikerjakan juga akan dikerjakan bersama sehingga semakin meningkatkan pengalamanmu untuk bekerja bersama tim.
+
+**Perlu diingat**, pada dunia kerja yang sebenarnya, tidak ada yang bekerja sendiri. Maka ini juga sekaligus melatih bekerja secara tim.
+
+> Apa yang terjadi jika saya mendaftar sendirian?
+
+Jika memenuhi syarat maka akan tetap diterima, lalu akan dipasangkan dengan peserta lain.
+
+> Apa yang terjadi jika saya tidak diterima?
+
+Tetap semangat! Kami akan memberitau jika ada kegiatan lagi. Kamu juga bisa datang di project day dimana peserta yang diterima akan melakukan presentasi tentang apa yang mereka buat selama program berjalan.
+
 ### Commitment Fee
 
 > Mengapa harus membayar commitment fee?
