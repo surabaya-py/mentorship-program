@@ -2,7 +2,9 @@
 
 **Ada yang baru nih!**. Surabaya.py adalah Komunitas (Bahasa Pemrograman) Python Surabaya yang membantu meningkatkan kemampuan pemrogramannya khususnya di bidang teknologi. Biasanya kami mengadakan workshop dan seminar. Namun kami sekarang mencoba menawarkan kegiatan baru: **Mentorship Program**.
 
-> Mentorship program adalah program 3 hingga 4 minggu dimana membahas secara mendalam sebuah topik serta berbagai latihan bersama mentor yang berpengalaman.
+> **Mentorship program adalah program 3 hingga 4 minggu dimana membahas secara mendalam sebuah topik serta berbagai latihan bersama mentor yang berpengalaman.**
+
+![Logo](mentorship_surabayapy.png)
 
 ## Alur Mentorship Program
 
