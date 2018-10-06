@@ -32,7 +32,7 @@ Untuk lebih jelasnya, bisa dilihat alur kegiatan sebagai berikut:
 * Peserta menggunakan laptop milik pribadi dan membawanya pada setiap kegiatan.
 * Peserta menyatakan mampu untuk hadir dan aktif pada setiap kegiatan yang diadakan hingga akhir program.
 * Mendaftar sebagai kelompok dua orang [(kenapa?)](#peserta). Jika belum memiliki partner, silahkan tanya di grup telegram.
-* Menceritakan ide kelompok yang mau dikerjakan selama periode program secara. Isi bisa melihat pada (contoh)[https://github.com/tegarimansyah/mentorship-program/blob/master/contoh.md]
+* Menceritakan ide kelompok yang mau dikerjakan selama periode program pada repositori githubmu. Isi bisa melihat pada [contoh](https://github.com/tegarimansyah/mentorship-program/blob/master/contoh.md)
 * Peserta menyatakan bersedia jika nanti diminta untuk menjadi mentor atau pembicara.
 * Peserta membayar commitment fee yang akan dikembalikan 75% setelah mengikuti seluruh rangkaian acara [(kenapa?)](#commitment-fee). Besaran commitment fee berbeda tergantung topik yang dibahas namun dalam kisaran Rp100.000,-.
 * Peserta tidak akan membuat dan atau terlibat konflik antar peserta, mentor atau panitia pada sebelum, saat dan setelah kegiatan.
