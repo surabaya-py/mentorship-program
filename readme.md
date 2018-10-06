@@ -4,6 +4,8 @@
 
 > **Mentorship program adalah program 3 hingga 4 minggu dimana membahas secara mendalam sebuah topik serta berbagai latihan bersama mentor yang berpengalaman.**
 
+Program ini bukan les pemrograman, tapi latihan peserta untuk mengembangkan sebuah software dengan topik tertentu. Mentor tidak membuatkanmu program atau menyuapi program, tapi menunjukan best practice dari kendala yang kamu hadapi dari projek yang tim kamu buat.
+
 ![Logo](mentorship_surabayapy.png)
 
 ## Alur Mentorship Program
@@ -29,7 +31,8 @@ Untuk lebih jelasnya, bisa dilihat alur kegiatan sebagai berikut:
 
 * Peserta menggunakan laptop milik pribadi dan membawanya pada setiap kegiatan.
 * Peserta menyatakan mampu untuk hadir dan aktif pada setiap kegiatan yang diadakan hingga akhir program.
-* Sangat disarankan untuk mendaftar sebagai kelompok dua orang [(kenapa?)](#peserta), namun diperbolehkan untuk mendaftar sendiri.
+* Mendaftar sebagai kelompok dua orang [(kenapa?)](#peserta). Jika belum memiliki partner, silahkan tanya di grup telegram.
+* Menceritakan ide kelompok yang mau dikerjakan selama periode program pada repositori githubmu. Isi bisa melihat pada [contoh](https://github.com/tegarimansyah/mentorship-program/blob/master/contoh.md)
 * Peserta menyatakan bersedia jika nanti diminta untuk menjadi mentor atau pembicara.
 * Peserta membayar commitment fee yang akan dikembalikan 75% setelah mengikuti seluruh rangkaian acara [(kenapa?)](#commitment-fee). Besaran commitment fee berbeda tergantung topik yang dibahas namun dalam kisaran Rp100.000,-.
 * Peserta tidak akan membuat dan atau terlibat konflik antar peserta, mentor atau panitia pada sebelum, saat dan setelah kegiatan.
