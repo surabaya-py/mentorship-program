@@ -75,3 +75,12 @@ Jika alasan ketidakhadiran bukan karena *force majeure* maka commitment fee akan
 > Bagaimana nasib uang yang telah hangus?
 
 Kami akan menggunakan sistem pelaporan yang transparan dan penggunaann untuk membangun komunitas yang lebih berkualitas.
+
+
+
+
+
+Untuk informasi lebih lanjut, silahkan hubungi CP dibawah ini :
+
+- Muhammad Wildan (id telegram : @eskepalmilooo)
+- Brilian Putra A. (id telegram : @brilianputraa)
