@@ -14,7 +14,7 @@ Untuk lebih jelasnya, bisa dilihat alur kegiatan sebagai berikut:
 
 ![Flowchart Mentorship Program](flowchart_mentorship_program.jpg)
 
-* Mendaftar ke https://surabaya-py.github.io dan bergabung ke grup telegram http://t.me/surabayadotpy
+* Mendaftar ke https://surabaya-py.github.io/mentorship-program/ dan bergabung ke grup telegram http://t.me/surabayadotpy
 * Pilih topik yang ingin diikuti. Dapat dilihat [di sini](https://github.com/surabaya-py/mentorship-program/tree/master/topik) atau di folder topik.
 * Setujui dan selesaikan [persyaratan umum](#syarat-peserta) dan khusus (pada masing masing topik) yang diminta.
 * Mengikuti pertemuan ke 0 hingga selesai dan secara aktif berkomunikasi dengan yang lain.
