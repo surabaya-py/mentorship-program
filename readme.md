@@ -75,3 +75,14 @@ Jika alasan ketidakhadiran bukan karena *force majeure* maka commitment fee akan
 > Bagaimana nasib uang yang telah hangus?
 
 Kami akan menggunakan sistem pelaporan yang transparan dan penggunaann untuk membangun komunitas yang lebih berkualitas.
+
+## Kategori 
+
+-Web Development :
+Mengenal lebih detail tentang web development tapi lebih mengarah ke backend
+
+-IoT:
+Mempelajari IoT mulai dari komunikasi sampai dengan cara memrogram microcontrollernya
+
+-Data Visualization:
+Mempelajari tentang cara memvisualisasikan data menggunakan matplotlib
