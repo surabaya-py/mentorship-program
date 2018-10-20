@@ -1,8 +1,8 @@
-# Daftar App
+# Daftar Aplikasi
 
 Form pendaftaran yang langsung terhubung ke telegram. Mengatur kegiatan semudah chatting di telegram. Ketika seseorang mendaftar via form html, maka akan mendapatkan notifikasi pada telegramnya. Data akan disimpan pada database.
 
-# Fitur
+# Fitur Aplikasi
 
 * Tanpa daftar
 * Form HTML builder dengan drag and drop
