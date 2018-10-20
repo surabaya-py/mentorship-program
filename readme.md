@@ -1,3 +1,5 @@
+# PEMBUKAAN BATCH 1: 27 Oktober 2018
+
 # Surabaya.py Mentorship Program
 
 **Ada yang baru nih!**. Surabaya.py adalah Komunitas (Bahasa Pemrograman) Python Surabaya yang membantu meningkatkan kemampuan pemrogramannya khususnya di bidang teknologi. Biasanya kami mengadakan workshop dan seminar. Namun kami sekarang mencoba menawarkan kegiatan baru: **Mentorship Program**.
